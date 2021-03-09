@@ -1,1 +1,1 @@
-# hiquanu-cn.github.io
+# hiquanu.cn
