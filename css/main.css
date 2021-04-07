@@ -127,6 +127,7 @@ a:focus {
 	color: #000000;
 }
 
+
 /* ===================================================================
  *  03. typography & general theme styles - (_document-setup.scss) 
  *
@@ -3000,6 +3001,14 @@ header .header-logo a {
 
 .contact-info h5 {
 	color: #FFFFFF;
+}
+
+.contact-info a {
+	color: #555555;
+}
+
+.contact-info a:hover {
+	color: #f0a359;
 }
 
 /* --------------------------------------------------------------- 
